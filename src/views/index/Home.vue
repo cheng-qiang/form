@@ -3,7 +3,7 @@
     <div class="left-board">
       <div class="logo-wrapper">
         <div class="logo">
-          <img :src="logo" alt="logo"> 坚持是一种技术
+          <img src="https://s1.328888.xyz/2022/08/09/0n7QN.jpg" alt="logo"> 坚持是一种技术
           <a class="github" href="https://chengqiangxj.gitee.io/" target="_blank">
             <img src="https://s1.328888.xyz/2022/08/09/0n7QN.jpg" alt>
           </a>
@@ -149,7 +149,6 @@ import {
 import { makeUpJs } from '@/components/generator/js'
 import { makeUpCss } from '@/components/generator/css'
 import drawingDefalut from '@/components/generator/drawingDefalut'
-import logo from '@/assets/logo.png'
 import CodeTypeDialog from './CodeTypeDialog'
 import DraggableItem from './DraggableItem'
 import {
@@ -177,7 +176,6 @@ export default {
   },
   data() {
     return {
-      logo,
       idGlobal,
       formConf,
       inputComponents,
