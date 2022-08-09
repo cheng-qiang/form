@@ -3,7 +3,7 @@
     <div class="left-board">
       <div class="logo-wrapper">
         <div class="logo">
-          <img src="https://s1.328888.xyz/2022/08/09/0n7QN.jpg" alt="logo"> 坚持是一种技术
+          <img src="https://s1.328888.xyz/2022/07/18/lL7RR.png" alt="logo"> 坚持是一种技术
           <a class="github" href="https://chengqiangxj.gitee.io/" target="_blank">
             <img src="https://s1.328888.xyz/2022/08/09/0n7QN.jpg" alt>
           </a>
